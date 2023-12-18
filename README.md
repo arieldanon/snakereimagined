@@ -1,6 +1,6 @@
 # Snake Reimagined
 
-Snake Reimagined is a Python mini-game that shows the classic snake game with new immersive elements that adds 
+Snake Reimagined is a Python mini-game that shows the classic snake game with new immersive elements that adds power-ups, colorful snake changes, and obstacles to avoid! 
 
 ## Installation
 
